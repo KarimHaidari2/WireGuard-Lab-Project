@@ -1,0 +1,80 @@
+2025-11-29 10:19:45.862173: [APP] App version: 1.0.16 (27)
+2025-11-29 10:38:05.655574: [APP] startActivation: Entering (tunnel: Project 3)
+2025-11-29 10:38:05.663393: [APP] startActivation: Starting tunnel
+2025-11-29 10:38:05.666153: [APP] startActivation: Success
+2025-11-29 10:38:05.674169: [APP] Tunnel 'Project 3' connection status changed to 'connecting'
+2025-11-29 10:38:05.782850: [NET] App version: 1.0.16 (27)
+2025-11-29 10:38:05.782912: [NET] Starting tunnel from the app
+2025-11-29 10:38:05.893335: [NET] DNS64: mapped 161.35.132.166 to itself.
+2025-11-29 10:38:05.894428: [NET] Attaching to interface
+2025-11-29 10:38:05.894993: [NET] UAPI: Updating private key
+2025-11-29 10:38:05.895174: [NET] Routine: encryption worker 1 - started
+2025-11-29 10:38:05.895185: [NET] Routine: handshake worker 3 - started
+2025-11-29 10:38:05.895252: [NET] UAPI: Updating listen port
+2025-11-29 10:38:05.895260: [NET] Routine: decryption worker 2 - started
+2025-11-29 10:38:05.895281: [NET] Routine: decryption worker 6 - started
+2025-11-29 10:38:05.895295: [NET] UAPI: Removing all peers
+2025-11-29 10:38:05.895335: [NET] Routine: handshake worker 5 - started
+2025-11-29 10:38:05.895365: [NET] Routine: decryption worker 5 - started
+2025-11-29 10:38:05.895408: [NET] Routine: decryption worker 4 - started
+2025-11-29 10:38:05.895246: [NET] Routine: handshake worker 2 - started
+2025-11-29 10:38:05.895439: [NET] Routine: encryption worker 6 - started
+2025-11-29 10:38:05.895472: [NET] Routine: decryption worker 1 - started
+2025-11-29 10:38:05.895484: [NET] Routine: encryption worker 3 - started
+2025-11-29 10:38:05.895503: [NET] Routine: handshake worker 4 - started
+2025-11-29 10:38:05.895509: [NET] Routine: decryption worker 3 - started
+2025-11-29 10:38:05.895516: [NET] Routine: encryption worker 4 - started
+2025-11-29 10:38:05.895529: [NET] Routine: handshake worker 1 - started
+2025-11-29 10:38:05.895565: [NET] Routine: TUN reader - started
+2025-11-29 10:38:05.895570: [NET] Routine: handshake worker 6 - started
+2025-11-29 10:38:05.895579: [NET] Routine: encryption worker 5 - started
+2025-11-29 10:38:05.895619: [NET] Routine: encryption worker 2 - started
+2025-11-29 10:38:05.895633: [NET] peer(t5CH…tVEI) - UAPI: Created
+2025-11-29 10:38:05.895653: [NET] Routine: event worker - started
+2025-11-29 10:38:05.895680: [NET] peer(t5CH…tVEI) - UAPI: Updating preshared key
+2025-11-29 10:38:05.895754: [NET] peer(t5CH…tVEI) - UAPI: Updating endpoint
+2025-11-29 10:38:05.895809: [NET] peer(t5CH…tVEI) - UAPI: Updating persistent keepalive interval
+2025-11-29 10:38:05.895851: [NET] peer(t5CH…tVEI) - UAPI: Removing all allowedips
+2025-11-29 10:38:05.895888: [NET] peer(t5CH…tVEI) - UAPI: Adding allowedip
+2025-11-29 10:38:05.895985: [NET] peer(t5CH…tVEI) - UAPI: Adding allowedip
+2025-11-29 10:38:05.896560: [NET] UDP bind has been updated
+2025-11-29 10:38:05.896647: [NET] peer(t5CH…tVEI) - Starting
+2025-11-29 10:38:05.896664: [NET] Routine: receive incoming v4 - started
+2025-11-29 10:38:05.896671: [NET] Routine: receive incoming v6 - started
+2025-11-29 10:38:05.896707: [NET] Interface state was Down, requested Up, now Up
+2025-11-29 10:38:05.896736: [NET] Device started
+2025-11-29 10:38:05.896848: [NET] Tunnel interface is utun4
+2025-11-29 10:38:05.897017: [NET] peer(t5CH…tVEI) - Routine: sequential receiver - started
+2025-11-29 10:38:05.897045: [NET] peer(t5CH…tVEI) - Routine: sequential sender - started
+2025-11-29 10:38:05.897224: [NET] Network change detected with satisfied route and interface order [en0, en0, pdp_ip0]
+2025-11-29 10:38:05.897601: [NET] DNS64: mapped 161.35.132.166 to itself.
+2025-11-29 10:38:05.897653: [NET] peer(t5CH…tVEI) - UAPI: Updating endpoint
+2025-11-29 10:38:05.897967: [NET] Routine: receive incoming v4 - stopped
+2025-11-29 10:38:05.898096: [NET] Routine: receive incoming v6 - stopped
+2025-11-29 10:38:05.898122: [APP] Tunnel 'Project 3' connection status changed to 'connected'
+2025-11-29 10:38:05.898263: [NET] UDP bind has been updated
+2025-11-29 10:38:05.898278: [NET] Routine: receive incoming v4 - started
+2025-11-29 10:38:05.898294: [NET] Routine: receive incoming v6 - started
+2025-11-29 10:38:05.936867: [NET] Network change detected with satisfied route and interface order [en0, en0, utun4, pdp_ip0]
+2025-11-29 10:38:05.937519: [NET] DNS64: mapped 161.35.132.166 to itself.
+2025-11-29 10:38:05.937659: [NET] peer(t5CH…tVEI) - UAPI: Updating endpoint
+2025-11-29 10:38:05.937831: [NET] Routine: receive incoming v4 - stopped
+2025-11-29 10:38:05.937951: [NET] Routine: receive incoming v6 - stopped
+2025-11-29 10:38:05.938271: [NET] UDP bind has been updated
+2025-11-29 10:38:05.938290: [NET] Routine: receive incoming v4 - started
+2025-11-29 10:38:05.938337: [NET] Routine: receive incoming v6 - started
+2025-11-29 10:38:05.976192: [NET] peer(t5CH…tVEI) - Sending handshake initiation
+2025-11-29 10:38:06.092856: [NET] Network change detected with satisfied route and interface order [en0, en0, utun4, pdp_ip0]
+2025-11-29 10:38:06.093844: [NET] DNS64: mapped 161.35.132.166 to itself.
+2025-11-29 10:38:06.094021: [NET] peer(t5CH…tVEI) - UAPI: Updating endpoint
+2025-11-29 10:38:06.095475: [NET] Routine: receive incoming v4 - stopped
+2025-11-29 10:38:06.095606: [NET] Routine: receive incoming v6 - stopped
+2025-11-29 10:38:06.095928: [NET] UDP bind has been updated
+2025-11-29 10:38:06.095955: [NET] Routine: receive incoming v4 - started
+2025-11-29 10:38:06.095988: [NET] Routine: receive incoming v6 - started
+2025-11-29 10:38:11.138136: [NET] peer(t5CH…tVEI) - Sending handshake initiation
+2025-11-29 10:38:11.197199: [NET] peer(t5CH…tVEI) - Received handshake response
+2025-11-29 10:38:14.317639: [APP] Status update notification timeout for tunnel 'Project 3'. Tunnel status is now 'connected'.
+2025-11-29 10:40:12.335984: [NET] peer(t5CH…tVEI) - Sending handshake initiation
+2025-11-29 10:40:12.393581: [NET] peer(t5CH…tVEI) - Received handshake response
+2025-11-29 10:40:12.393923: [NET] peer(t5CH…tVEI) - Sending keepalive packet
